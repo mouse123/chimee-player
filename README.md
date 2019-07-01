@@ -4,7 +4,7 @@
 
 > 注意：当前文档适用于PC端，如果是移动端使用Chimee，您可以参考 [Chimee-mobile-player](https://github.com/Chimeejs/chimee-mobile-player/blob/master/README.md) 文档，移动端插件开发和注意事项可以参考[Chimee 移动端插件开发](https://github.com/Chimeejs/chimee-mobile-player/blob/master/doc/dev.md) 这篇文章。
 
-并集成了以下官方UI插件：
+并集成了以下官方UI插件： 
 > 1. [chimee-plugin-controlbar](https://github.com/Chimeejs/chimee-plugin-controlbar)
 > 2. [chimee-plugin-center-state](https://github.com/Chimeejs/chimee-plugin-center-state)
 > 3. [chimee-plugin-contextmenu](https://github.com/Chimeejs/chimee-plugin-contextmenu)
